@@ -1,4 +1,4 @@
-## Hi there :wave: , I'm Mesut Semiz  
+
 
 
 <h1 align="center">Hi 👋, I'm Mesut Semiz</h1>
@@ -31,9 +31,6 @@
 <img src="https://media4.giphy.com/media/jUnkTHZIwquCN6MSXh/giphy.gif?cid=790b76114f75d5b028fbc8d13a751161b267882ed8d98111&rid=giphy.gif&ct=g" width="230" height="200" align="left" > </img>
 
 
-
-<img src="https://elasticbeanstalk-ap-southeast-1-805366489044.s3.amazonaws.com/images/uploads/2019/03/30/python-django_QhCttHZ_TqhlDil_c3F1LmU.gif" width="240" height="200"  align="left
-" > </img>
 
 
 
