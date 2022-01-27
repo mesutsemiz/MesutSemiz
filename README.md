@@ -32,7 +32,7 @@
 
 
 
-<img src="https://elasticbeanstalk-ap-southeast-1-805366489044.s3.amazonaws.com/images/uploads/2019/03/30/python-django_QhCttHZ_TqhlDil_c3F1LmU.gif" width="230" height="200"  align="left
+<img src="https://elasticbeanstalk-ap-southeast-1-805366489044.s3.amazonaws.com/images/uploads/2019/03/30/python-django_QhCttHZ_TqhlDil_c3F1LmU.gif" width="250" height="200"  align="left
 " > </img>
 
 
