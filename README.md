@@ -27,7 +27,7 @@
 
 
 <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" width="200" height="200"  align="right" > </img>
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200"  align="right" > </img>
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200"  > </img>
 
 
 <img src="https://elasticbeanstalk-ap-southeast-1-805366489044.s3.amazonaws.com/images/uploads/2019/03/30/python-django_QhCttHZ_TqhlDil_c3F1LmU.gif" width="220" height="200"  align="left
