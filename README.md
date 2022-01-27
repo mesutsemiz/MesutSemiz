@@ -5,7 +5,7 @@
 <br>
 
 - 💬 Ask me about React,Js,React
-- 📫 How to reach me: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" width="200" height="200"  align="right" > </img>](https://www.linkedin.com/in/mesut-semiz/)
+- 📫 How to reach me: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" width="50" height="50"  align="left" > </img>](https://www.linkedin.com/in/mesut-semiz/)
 
 
 
