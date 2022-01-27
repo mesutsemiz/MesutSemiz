@@ -4,8 +4,8 @@
 ### - 🔭 I’m currently working on fullstackdeveloper :man_technologist:
 <br>
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about React,Js,React
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/mesut-semiz/)
 
 
 
